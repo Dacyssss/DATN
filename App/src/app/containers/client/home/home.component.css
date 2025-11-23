@@ -1,0 +1,8 @@
+.main-carousel{
+    height: 224px;
+}
+
+.main-carousel img{
+    height: 220px;    
+   object-fit: cover;
+}
